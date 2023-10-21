@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "GraphicObjects.subproj/VPath.m"
+         timestampString = "377525174.938648"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "3444"
+         endingLineNumber = "3444"
+         landmarkName = "-drawAxialWithPrincipal:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "InspectorPanel.subproj/SliderBox.m"
+         timestampString = "365872461.085142"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "145"
+         endingLineNumber = "145">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "InspectorPanel.subproj/SliderBox.m"
+         timestampString = "365872461.101483"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "125"
+         endingLineNumber = "125">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "VHFImport/SVGImport.m"
+         timestampString = "365872461.151761"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "563"
+         endingLineNumber = "563">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "VHFShared/vhfCommonFunctions.m"
+         timestampString = "365872461.2758479"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "262"
+         endingLineNumber = "262"
+         landmarkName = "vhfFilePathForNamesInPaths()"
+         landmarkType = "7">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "vhfFilePathForNamesInPaths"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.038807"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "262"
+               endingLineNumber = "262">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.038988"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "262"
+               endingLineNumber = "262">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "VHFShared/vhfCommonFunctions.m"
+         timestampString = "365872461.2921071"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "279"
+         endingLineNumber = "279"
+         landmarkName = "vhfFilePathForNamesInPaths()"
+         landmarkType = "7">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "vhfFilePathForNamesInPaths"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.040873"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "279"
+               endingLineNumber = "279">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.041082"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "279"
+               endingLineNumber = "279">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "VHFShared/vhfCommonFunctions.m"
+         timestampString = "365872461.323368"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "261"
+         endingLineNumber = "261"
+         landmarkName = "vhfFilePathForNamesInPaths()"
+         landmarkType = "7">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "vhfFilePathForNamesInPaths"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.042779"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "262"
+               endingLineNumber = "262">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.042959"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "262"
+               endingLineNumber = "262">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "VHFShared/vhfCommonFunctions.m"
+         timestampString = "365872461.3402659"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "275"
+         endingLineNumber = "275"
+         landmarkName = "vhfFilePathForNamesInPaths()"
+         landmarkType = "7">
+         <Locations>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               symbolName = "vhfFilePathForNamesInPaths"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.044994"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "275"
+               endingLineNumber = "275">
+            </Location>
+            <Location
+               shouldBeEnabled = "Yes"
+               ignoreCount = "0"
+               continueAfterRunningActions = "No"
+               urlString = "file://localhost/vhfCommonFunctions.m"
+               timestampString = "400789497.045255"
+               startingColumnNumber = "9223372036854775807"
+               endingColumnNumber = "9223372036854775807"
+               startingLineNumber = "275"
+               endingLineNumber = "275">
+            </Location>
+         </Locations>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Document.m"
+         timestampString = "378847181.586878"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "625"
+         endingLineNumber = "625"
+         landmarkName = "-scale::withCenter:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockDataCalc.m"
+         timestampString = "373737944.422762"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1190"
+         endingLineNumber = "1190"
+         landmarkName = "-codesInRange:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockAspectSum.m"
+         timestampString = "379790561.317784"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1736"
+         endingLineNumber = "1736"
+         landmarkName = "-getAspectStructureFromJD:toJD:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "i%100==0"
+         continueAfterRunningActions = "Yes"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockDataCalc.m"
+         timestampString = "379956967.520806"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "120"
+         endingLineNumber = "120"
+         landmarkName = "+errorBetweenData::fromDate:toDate:movingAv:offset:scale:::"
+         landmarkType = "5">
+         <Actions>
+            <BreakpointActionProxy
+               ActionType = "Xcode.BreakpointAction.DebuggerCommand">
+               <ActionContent
+                  consoleCommand = "printf &quot;%d %d %f %f %f\n&quot;, i, yyyymmdd, v1, v2, (v1-v2)">
+               </ActionContent>
+            </BreakpointActionProxy>
+         </Actions>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "i%100==0"
+         continueAfterRunningActions = "Yes"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockDataCalc.m"
+         timestampString = "379957696.74896"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "115"
+         endingLineNumber = "115"
+         landmarkName = "+errorBetweenData::fromDate:toDate:movingAv:offset:scale:::"
+         landmarkType = "5">
+         <Actions>
+            <BreakpointActionProxy
+               ActionType = "Xcode.BreakpointAction.DebuggerCommand">
+               <ActionContent
+                  consoleCommand = "printf &quot;%d %d %f %f\n&quot;, i, yyyymmdd, v1+av1, v2/scale+av2">
+               </ActionContent>
+            </BreakpointActionProxy>
+         </Actions>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "i1%100==0.0"
+         continueAfterRunningActions = "Yes"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockAspectSum.m"
+         timestampString = "379964595.719512"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5814"
+         endingLineNumber = "5814"
+         landmarkName = "-errorForValues:reference:fromJD:toJD:"
+         landmarkType = "5">
+         <Actions>
+            <BreakpointActionProxy
+               ActionType = "Xcode.BreakpointAction.DebuggerCommand">
+               <ActionContent
+                  consoleCommand = "printf &quot;%d %f\n&quot;, intDate1.yymmdd, pts[i1]">
+               </ActionContent>
+            </BreakpointActionProxy>
+         </Actions>
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockAspectSum.m"
+         timestampString = "379959517.704078"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "4986"
+         endingLineNumber = "4986"
+         landmarkName = "-caleidoscopeValueForDegrees:steps:count:jd:obj1:obj2:parms:objWeights:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockAspectSum.m"
+         timestampString = "379964595.719512"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5481"
+         endingLineNumber = "5481"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "0"
+         filePath = "/../Trader/StockAspectSum.m"
+         timestampString = "379964638.685931"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5383"
+         endingLineNumber = "5383"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Document.m"
+         timestampString = "382096091.639218"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "2034"
+         endingLineNumber = "2034"
+         landmarkName = "-windowShouldClose:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockPanel.subproj/SPDepot.m"
+         timestampString = "395349691.823708"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "267"
+         endingLineNumber = "267"
+         landmarkName = "-tableView:objectValueForTableColumn:row:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "7335"
+         endingLineNumber = "7335"
+         landmarkName = "-errorForExtrema:reference:fromJD:toJD:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockDataCalc.m"
+         timestampString = "384444395.80269"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "108"
+         endingLineNumber = "108"
+         landmarkName = "+errorBetweenData::fromDate:toDate:movingAv:offset:scale:::"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "obj1==E_PLUTO &amp;&amp; obj2==E_COUNT &amp;&amp; sig &gt; 0 &amp;&amp; lev==1 &amp;&amp; div==10"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "7634"
+         endingLineNumber = "7634"
+         landmarkName = "-learnAspect::fromJD:toJD:subRange:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "obj1==E_PLUTO &amp;&amp; obj2==E_COUNT &amp;&amp; sig &gt; 0 &amp;&amp; lev==0 &amp;&amp; div==2"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "7628"
+         endingLineNumber = "7628"
+         landmarkName = "-learnAspect::fromJD:toJD:subRange:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockDataCalc.m"
+         timestampString = "384444395.80269"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "122"
+         endingLineNumber = "122"
+         landmarkName = "+errorBetweenData::fromDate:toDate:movingAv:offset:scale:::"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockDataCalc.m"
+         timestampString = "384445298.385679"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "133"
+         endingLineNumber = "133"
+         landmarkName = "+errorBetweenData::fromDate:toDate:movingAv:offset:scale:::"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockPanel.subproj/SPDepot.m"
+         timestampString = "395349691.823708"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "507"
+         endingLineNumber = "507"
+         landmarkName = "-save"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockPanel.subproj/SPDepot.m"
+         timestampString = "395349691.823708"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "376"
+         endingLineNumber = "376"
+         landmarkName = "-depotArray"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "8003"
+         endingLineNumber = "8003"
+         landmarkName = "@implementation StockAspectSum"
+         landmarkType = "3">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/EphemerisData.m"
+         timestampString = "386334620.196464"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "108"
+         endingLineNumber = "108"
+         landmarkName = "-ephemerisAtJD:store:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VHFImport/DXFImport.m"
+         timestampString = "400789496.780901"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "1389"
+         endingLineNumber = "1389"
+         landmarkName = "-getText:mtext::::::::"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20130419"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5644"
+         endingLineNumber = "5644"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20130419"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5683"
+         endingLineNumber = "5683"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20130419"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5700"
+         endingLineNumber = "5700"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20130419"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5695"
+         endingLineNumber = "5695"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20130419 &amp;&amp; (divLev==10 || divLev == 7)"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5689"
+         endingLineNumber = "5689"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5562"
+         endingLineNumber = "5562"
+         landmarkName = "-resonantClusterAtJD:ephemeris:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6867"
+         endingLineNumber = "6867"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5965"
+         endingLineNumber = "5965"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5976"
+         endingLineNumber = "5976"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDateH.yymmdd &lt; 20070101"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6123"
+         endingLineNumber = "6123"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "intDate.yymmdd==20120921 &amp;&amp; (intDateH.yymmdd==20080726 || intDateH.yymmdd==20071227)"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5972"
+         endingLineNumber = "5972"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6000"
+         endingLineNumber = "6000"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5974"
+         endingLineNumber = "5974"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5900"
+         endingLineNumber = "5900"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6745"
+         endingLineNumber = "6745"
+         landmarkName = "-logComparisonTables"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6936"
+         endingLineNumber = "6936"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6941"
+         endingLineNumber = "6941"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5320"
+         endingLineNumber = "5320"
+         landmarkName = "-caleidoscopeValueForDegrees:steps:count:jd:obj1:obj2:parms:objWeights:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6638"
+         endingLineNumber = "6638"
+         landmarkName = "-logComparisonAspects"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6624"
+         endingLineNumber = "6624"
+         landmarkName = "-logComparisonAspects"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockPanel.subproj/SPChart.m"
+         timestampString = "397316928.787086"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "755"
+         endingLineNumber = "755"
+         landmarkName = "-set:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6919"
+         endingLineNumber = "6919"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6885"
+         endingLineNumber = "6885"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6826"
+         endingLineNumber = "6826"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6786"
+         endingLineNumber = "6786"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "397327795.273399"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5309"
+         endingLineNumber = "5309"
+         landmarkName = "-caleidoscopeValueForDegrees:steps:count:jd:obj1:obj2:parms:objWeights:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "397328129.692725"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5253"
+         endingLineNumber = "5253"
+         landmarkName = "-caleidoscopeValueForDegrees:steps:count:jd:obj1:obj2:parms:objWeights:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "397328165.963051"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5181"
+         endingLineNumber = "5181"
+         landmarkName = "-caleidoscopeValueForDegrees:steps:count:jd:obj1:obj2:parms:objWeights:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6838"
+         endingLineNumber = "6838"
+         landmarkName = "-getAspectSumFromJD:toJD:skipWeekends:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "5928"
+         endingLineNumber = "5928"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6073"
+         endingLineNumber = "6073"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6085"
+         endingLineNumber = "6085"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6078"
+         endingLineNumber = "6078"
+         landmarkName = "-projectionForJD:prevFit:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6483"
+         endingLineNumber = "6483"
+         landmarkName = "-logComparisonAspects"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         condition = "obj1==8 &amp;&amp; obj2==9"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6468"
+         endingLineNumber = "6468"
+         landmarkName = "-logComparisonAspects"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../Trader/StockAspectSum.m"
+         timestampString = "400789020.072703"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "6592"
+         endingLineNumber = "6592"
+         landmarkName = "-logComparisonAspects"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "VHFImport/DXFImport.m"
+         timestampString = "400789496.780901"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "669"
+         endingLineNumber = "669"
+         landmarkName = "-getGraphicFromData::"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+   <SymbolicBreakpoints>
+      <SymbolicBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         symbolName = "malloc_error_break">
+      </SymbolicBreakpoint>
+   </SymbolicBreakpoints>
+   <ExceptionBreakpoints>
+      <ExceptionBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         scope = "0"
+         stopOnStyle = "0">
+      </ExceptionBreakpoint>
+   </ExceptionBreakpoints>
+</Bucket>
